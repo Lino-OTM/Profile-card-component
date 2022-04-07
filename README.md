@@ -6,7 +6,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![](/Frontend-Mentor-Profile-card-component.png)
 
-Link:
+Link: https://lino-otm.github.io/Profile-card-component/
 
 ### Built with:
 
